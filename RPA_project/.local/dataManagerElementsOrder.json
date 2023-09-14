@@ -1,0 +1,52 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "pdfFiles&Sequence_6",
+        "PDFfiles&Sequence_9",
+        "day&Sequence_9",
+        "excelInvoiceMonthYear&Sequence_9",
+        "excelMonthYear&Sequence_9",
+        "ExcelInvoiceDate&Sequence_9",
+        "MonthYear&Sequence_9",
+        "InvoiceData&Sequence_6",
+        "CurrentMail&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "receiver.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TransactionTempString&Sequence_1",
+        "TransactionTempDouble&Sequence_1",
+        "variable1&Sequence_13",
+        "variable1&Sequence_9",
+        "SumDataTable&Sequence_9",
+        "transactionstring&Sequence_8",
+        "finalSum&Sequence_9",
+        "MyDataTable&Sequence_6",
+        "invoiceID&Sequence_6",
+        "transaction&Sequence_6",
+        "dueDate&Sequence_6",
+        "companyName&Sequence_6",
+        "CurrentMail&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
